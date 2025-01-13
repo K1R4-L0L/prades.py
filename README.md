@@ -1,1 +1,1 @@
-# prades.py
+# dictionary
